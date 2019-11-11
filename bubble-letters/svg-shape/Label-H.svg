@@ -1,0 +1,16 @@
+<svg id="Label-H" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2196f3;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="H" class="cls-1" cx="20" cy="20" r="20"/>
+  <path id="H-2" data-name="H" class="cls-2" d="M546.807,169.527h-3.516v6.914h-6.855v-6.914H532.92V186.59h3.516v-7.313h6.855v7.313h3.516V169.527Z" transform="translate(-520 -158)"/>
+</svg>

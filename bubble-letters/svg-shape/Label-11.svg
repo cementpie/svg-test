@@ -1,0 +1,16 @@
+<svg id="Label-11" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2196f3;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="_11" data-name="11" class="cls-1" cx="20" cy="20" r="20"/>
+  <path id="_11-2" data-name="11" class="cls-2" d="M45.492,564.5H45.129l-7.066,2.531v2.754l4.043-1.254V581.59h3.387V564.5Zm13.77,0H58.9l-7.066,2.531v2.754l4.043-1.254V581.59h3.387V564.5Z" transform="translate(-30 -553)"/>
+</svg>

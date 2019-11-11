@@ -1,0 +1,16 @@
+<svg id="Label-Z" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2196f3;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Z" class="cls-1" cx="20" cy="20" r="20"/>
+  <path id="Z-2" data-name="Z" class="cls-2" d="M549.268,331.543v-2.016h-12.8v2.848H544.9l-8.437,12.152v2.063h13v-2.824h-8.6Z" transform="translate(-523 -318)"/>
+</svg>

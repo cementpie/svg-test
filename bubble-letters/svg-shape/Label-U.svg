@@ -1,0 +1,16 @@
+<svg id="Label-U" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2196f3;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="U" class="cls-1" cx="20" cy="20" r="20"/>
+  <path id="U-2" data-name="U" class="cls-2" d="M193.887,329.527v11.356Q193.839,344,190.875,344a3.082,3.082,0,0,1-2.221-.768,3.25,3.25,0,0,1-.8-2.443V329.527h-3.516V340.9a5.652,5.652,0,0,0,1.793,4.347,6.829,6.829,0,0,0,4.746,1.582,6.755,6.755,0,0,0,4.787-1.629,5.753,5.753,0,0,0,1.752-4.429V329.527h-3.527Z" transform="translate(-171 -318)"/>
+</svg>

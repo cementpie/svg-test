@@ -1,0 +1,16 @@
+<svg id="Label-17" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2196f3;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="_17" data-name="17" class="cls-1" cx="20" cy="20" r="20"/>
+  <path id="_17-2" data-name="17" class="cls-2" d="M465.492,564.5h-0.363l-7.067,2.531v2.754l4.043-1.254V581.59h3.387V564.5Zm17.145,0.023H470.59v2.731h8.484l-6.609,14.332h3.574l6.6-15.172v-1.891Z" transform="translate(-450 -553)"/>
+</svg>

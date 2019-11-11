@@ -1,0 +1,19 @@
+<svg id="Label-18" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2196f3;
+      }
+
+      .cls-2 {
+        font-size: 24px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: Roboto;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <circle id="_18" data-name="18" class="cls-1" cx="20" cy="20" r="20"/>
+  <text id="_18-2" data-name="18" class="cls-2" x="19.875" y="28.59">18</text>
+</svg>

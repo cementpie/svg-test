@@ -1,0 +1,16 @@
+<svg id="Label-W" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2196f3;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="W" class="cls-1" cx="20" cy="20" r="20"/>
+  <path id="W-2" data-name="W" class="cls-2" d="M333.393,329.527h-2.977L327.6,341.645,325.3,329.527h-3.5l3.785,17.063h3.539l2.778-11.414,2.777,11.414h3.539l3.785-17.063h-3.5l-2.3,12.141Z" transform="translate(-312 -318)"/>
+</svg>

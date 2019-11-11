@@ -1,0 +1,16 @@
+<svg id="Label-F" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2196f3;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="F" class="cls-1" cx="20" cy="20" r="20"/>
+  <path id="F-2" data-name="F" class="cls-2" d="M405.09,176.781h-6.75v-4.406h7.594v-2.848h-11.11V186.59h3.516v-6.973h6.75v-2.836Z" transform="translate(-380 -158)"/>
+</svg>
